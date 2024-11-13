@@ -1,0 +1,9 @@
+# See config.example.yml for documentation.
+object_base: orig/GGFJ01
+object: sys/main.dol
+hash: e697c8bfbaafd0263c29bdb8f114cd1a98e95a66
+symbols: config/GGFJ01/symbols.txt
+splits: config/GGFJ01/splits.txt
+# Change this to match the linker verison.
+# See config.example.yml for a list.
+mw_comment_version: 11
